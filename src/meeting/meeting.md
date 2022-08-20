@@ -191,7 +191,7 @@ abstract 和 interface 都是抽象类，但是他们有本质上的区别
 
 ## mysql
 ### innodb引擎
-innodb引擎支持事物，支持行级锁，innodb索引的存储结构是b+树
+innodb引擎支持事物，支持行级锁，innodb索引的存储结构是b+树 
 
 ### b+树
 1. b+树是一颗平衡树，各个节点的子树高度差小于2
